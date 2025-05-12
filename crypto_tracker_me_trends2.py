@@ -269,5 +269,5 @@ if __name__ == "__main__":
         print("Track: ", track)
         if len(track) >= max_track:
             track.pop(0)
-        time.sleep(180)
+        #time.sleep(180)
 
